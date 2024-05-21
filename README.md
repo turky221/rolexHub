@@ -1,13 +1,5 @@
-# Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+1.Md Maruf Hasan (221-15-5730)
+2.Md Najmus Sakib (221-15-4921)
+3.Tanjid Hasan Turky (221-15-5916)
+4.Md Mehedi Hasan (221-15-5920
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![preview img](/preview.png)
